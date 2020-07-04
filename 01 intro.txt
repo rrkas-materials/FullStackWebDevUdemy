@@ -1,0 +1,34 @@
+what is stack?
+combination of different web technologies together is called a stack/ tech stack.
+
+front end :	html, css, bootstrap, vuejs
+back end  :	node + express, postgres
+
+
+html: 		basic frame of website
+css: 		styling, coloring...
+bootstrap:	mobile responsiveness
+VueJs:		build components and make website more attractive
+
+Node + Express:	configure server, routing for web app
+postgres:	database: stores data related to website
+
+------------------------------------------------------------------------------------------
+
+Front End?
+technologies running in client side/ browser.
+Eg:	html, css, js...
+
+Back End?
+technologies that work on server.
+Eg:	java, php, python, node, express, databases...
+
+------------------------------------------------------------------------------------------
+
+Client-server architecture
+
+laptop  \
+mobile --<->--  internet --<->-- server
+pc	/
+
+

@@ -1,0 +1,10 @@
+HTML - hypertext markup language
+
+markup: 	way to structure in a specific format
+hypertext:	machine readable text
+
+written in text file and saved with .html extension.
+
+home page of website is named "index.html" by convention.
+
+uses tags

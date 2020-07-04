@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!---
+            container of meta data
+            meta data: data about data
+            this block contains data about html document
+        -->
+    <title>My Site</title>
+</head>
+
+<body>
+
+    <h1 style="color: blueviolet">This is a heading</h1>
+    <h2 style="color: aqua">This is a sub heading</h2>
+
+    <a href="http://www.google.com">This is a link</a>
+
+    <!--lists-->
+
+    <ul style="list-style-type: square;">
+        <!--unordered list-->
+        <li>item 1</li>
+        <li>item 2</li>
+    </ul>
+
+    <ol type="1">
+        <!--ordered list-->
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ol>
+
+    <dl>
+        <dt>name1</dt>
+        <dd>desc1</dd>
+
+        <dt>name2</dt>
+        <dd>desc2</dd>
+    </dl>
+
+    <a href="http://www.google.com">
+        <img src="https://images-na.ssl-images-amazon.com/images/I/41lR53MQ61L._SX466_.jpg" height="100" width="100"
+            alt="image not available">
+    </a>
+
+    <!--forms-->
+    <!--
+        methods:
+        get: 
+            url max length: 3000 chars
+            field data visible in url
+            when data is not much sensitive
+        post:
+            hides sensitive data
+            no size limit in url
+    -->
+    <form method="POST">
+        Username: <input type="text" name="username"><br>
+        Email: <input type="email" name="email"><br>
+        Password: <input type="password" name="pwd"><br>
+        Date: <input type="date" name="date"><br>
+        <input type="radio" name="gender" value="m">Male<br>
+        <input type="radio" name="gender" value="f">Female<br>
+        <input type="submit">
+    </form>
+
+</body>
+
+</html>
