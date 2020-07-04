@@ -1,0 +1,22 @@
+CSS
+
+cascading style sheet
+instead of mixing sructure and styling, we separate the files
+
+why css?
+    enhanced UX
+    professional
+    trustworthy
+
+element selector?
+    general style for all similar tags
+    cant distinguish between 2 elements
+    Eg: p{}
+
+id selectors?
+    gives specific style to elements with distict ids
+    Eg: #p1{}
+
+class selector?
+    gives specific style to elements with distict class names
+    Eg: .myclass{}

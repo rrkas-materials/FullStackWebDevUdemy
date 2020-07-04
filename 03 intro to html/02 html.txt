@@ -8,3 +8,6 @@ written in text file and saved with .html extension.
 home page of website is named "index.html" by convention.
 
 uses tags
+
+div tags?
+    groups elements together

@@ -1,0 +1,38 @@
+/*element selectors*/
+/* h1{
+    color: orange;
+} */
+
+/* h2{
+    color: purple;
+} */
+
+/* body{ */
+    /*a is aplha = opacity*/
+    /* background-color: rgba(0, 255, 0, 0.1);
+} */
+
+/*id selectors*/
+/* #p1{ */
+    /*hex notation: #rrggbb*/
+    /* color: #37669b;
+} */
+
+/* #p2{
+    color: red;
+} */
+
+/*class selectors*/
+/* .center{
+    color: green;
+} */
+
+/* h1{
+    background-color: purple;
+    padding-left: 20px;
+    margin-top: 40px;
+} */
+
+/* body{
+  background-image: url('https://calories-info.com/site/assets/files/1173/mango.650x0.jpg');
+} */
