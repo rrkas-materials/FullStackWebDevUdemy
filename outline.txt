@@ -1,0 +1,246 @@
+.
+├── 01. Course Introduction
+│   └── 1. Introduction To The Course.mp4
+├── 02. Introduction To Web Development & Installing Required Tools
+│   ├── 1. Introduction To Web Development.mp4
+│   ├── 2. Installing Visual Studio Code On Windows.mp4
+│   └── 3. Installing Visual Studio Code On Mac.mp4
+├── 03. Getting Started With HTML5
+│   ├── 1. Introduction To HTML.mp4
+│   ├── 2. HTML Attributes.mp4
+│   ├── 3. HTML Comments.mp4
+│   ├── 4. HTML Lists.mp4
+│   ├── 5. Using Images.mp4
+│   └── 6. HTML Forms.mp4
+├── 04. CSS
+│   ├── 01. Introduction To CSS.mp4
+│   ├── 02. Using CSS With HTML.mp4
+│   ├── 03. CSS Selectors.mp4
+│   ├── 04. CSS Color Values.mp4
+│   ├── 05. CSS Margin & Padding.mp4
+│   ├── 06. CSS Adding Background Image.mp4
+│   ├── 07. CSS Icons.mp4
+│   ├── 08. CSS Font Family, Stye & Size.mp4
+│   ├── 09. Link States.mp4
+│   ├── 10. Div & Span.mp4
+│   ├── 11. CSS FlexBox.mp4
+│   ├── 12. Making A CSS FlexBox.mp4
+│   ├── 13. CSS Flex Grow & Shrink.mp4
+│   └── 14. CSS Flex Wrap.mp4
+├── 05. Making A Portfolio Site With HTML & CSS
+│   ├── 1. Project Introduction.mp4
+│   ├── 2. Creating The Top Menu.mp4
+│   ├── 3. Adding an Image Banner.mp4
+│   ├── 4. Skill Container.mp4
+│   ├── 5. Adding Portfolio Items.mp4
+│   └── 6. Adding Client Testimonials.mp4
+├── 06. Bootstrap 4
+│   ├── 01. Introduction To Bootstrap.mp4
+│   ├── 02. Adding Bootstrap To Our Site.mp4
+│   ├── 03. Bootstrap Grid System.mp4
+│   ├── 04. Bootstrap Grid Classes Part 1.mp4
+│   ├── 05. Bootstrap Grid Classes Part 2.mp4
+│   ├── 06. Bootstrap Grid Column Offset.mp4
+│   ├── 07. Making Images Responsive.mp4
+│   ├── 08. Codeblocks.mp4
+│   ├── 09. Tables.mp4
+│   ├── 10. Bootstrap Buttons.mp4
+│   ├── 11. Dropdowns.mp4
+│   ├── 12. Input Fields.mp4
+│   ├── 13. Jumbotron.mp4
+│   ├── 14. Cards.mp4
+│   ├── 15. Card Title & Links.mp4
+│   ├── 16. Card With Images.mp4
+│   ├── 17. Card List Groups.mp4
+│   ├── 18. Card Header.mp4
+│   ├── 19. Card Alignment.mp4
+│   ├── 20. Card Image Overlays.mp4
+│   ├── 21. Card colors.mp4
+│   ├── 22. Card Groups & Decks.mp4
+│   ├── 23. Bootstrap Nav Intro.mp4
+│   ├── 24. Bootstrap Nav Alignment.mp4
+│   ├── 25. Tabs & Pills.mp4
+│   ├── 26. Breadcrumbs.mp4
+│   ├── 27. Badges.mp4
+│   ├── 28. Collapsible Navbar.mp4
+│   ├── 29. Forms.mp4
+│   └── 30. Form Controls.mp4
+├── 07. Making A Mobile Responsive News Portal With Bootstrap 4
+│   ├── 1. Building A News Portal In Bootstrap Part 1.mp4
+│   ├── 2. Building A News Portal In Bootstrap Part 2.mp4
+│   ├── 3. Building A News Portal In Bootstrap Part 3.mp4
+│   ├── 4. Building A News Portal In Bootstrap Part 4.mp4
+│   ├── 5. Building A News Portal In Bootstrap Part 5.mp4
+│   ├── 6. Building A News Portal In Bootstrap Part 6.mp4
+│   └── 7. Building A News Portal In Bootstrap Part 7.mp4
+├── 08. JavaScript
+│   ├── 01. Code Editors & IDEs.mp4
+│   ├── 02. Hello World.mp4
+│   ├── 03. Displaying Output.mp4
+│   ├── 04. Variables.mp4
+│   ├── 05. Operations.mp4
+│   ├── 06. Case Sensitivity.mp4
+│   ├── 07. JavaScript Coding Challenge 1.mp4
+│   ├── 08. Javascript Coding Challenge 2.mp4
+│   ├── 09. Data Types.mp4
+│   ├── 10. Functions.mp4
+│   ├── 11. Passing Parameters To Functions.mp4
+│   ├── 12. Objects In JavaScript.mp4
+│   ├── 13. Global & Local Variables.mp4
+│   ├── 14. JavaScript Coding Challenge 3.mp4
+│   ├── 15. JavaScript Coding Challenge 4.mp4
+│   ├── 16. String Length.mp4
+│   ├── 17. String Methods.mp4
+│   ├── 18. Math Methods.mp4
+│   ├── 19. Math Functions.mp4
+│   ├── 20. Arrays.mp4
+│   ├── 21. Array Methods.mp4
+│   ├── 22. JavaScript Coding Challenge 5.mp4
+│   ├── 23. JavaScript Coding Challenge 6.mp4
+│   ├── 24. If Statements.mp4
+│   ├── 25. Comparison Operators.mp4
+│   ├── 26. JavaScript Coding Challenge 8.mp4
+│   ├── 27. JavaScript Coding Challenge 9.mp4
+│   ├── 28. Operators.mp4
+│   ├── 29. For Loop.mp4
+│   ├── 30. While Loop.mp4
+│   ├── 31. JavaScript Coding Challenge 9.mp4
+│   ├── 32. JavaScript Coding Challenge 10.mp4
+│   ├── 33. Switch Case.mp4
+│   ├── 34. Regular Expressions.mp4
+│   ├── 35. JavaScript Coding Challenge 11.mp4
+│   ├── 36. JavaScript Coding Challenge 12.mp4
+│   ├── 37. Exception Handling.mp4
+│   ├── 38. Hoisting.mp4
+│   ├── 39. Coding Conventions.mp4
+│   ├── 40. Best Practices.mp4
+│   ├── 41. JavaScript Coding Challenge 13.mp4
+│   ├── 42. HTML DOM.mp4
+│   ├── 43. DOM Methods.mp4
+│   ├── 44. Accessing Elements By Tag Name.mp4
+│   ├── 45. Changing Styling.mp4
+│   ├── 46. DOM Events.mp4
+│   ├── 47. DOM Event Listener.mp4
+│   ├── 48. Intro To Nodes.mp4
+│   ├── 49. Adding Nodes.mp4
+│   ├── 50. JavaScript Coding Challenge 15.mp4
+│   ├── 51. JavaScript Coding Challenge 16.mp4
+│   ├── 52. Deleting Child.mp4
+│   ├── 53. BOM Intro.mp4
+│   └── 54. Accessing URL Of Webpage.mp4
+├── 09. Javascript  Building A Simple Interest Calculator
+│   ├── 1. Building A Simple Interest Calculator Part 1.mp4
+│   └── 2. Building A Simple Interest Calculator Part 2.mp4
+├── 10. JavaScript ES6
+│   ├── 1. Intro to ES6.mp4
+│   ├── 2. Let Keyword In ES6.mp4
+│   ├── 3. Const Keyword In ES6.mp4
+│   ├── 4. Default Parameter In ES6.mp4
+│   ├── 5. Spread Operator In ES6.mp4
+│   ├── 6. Template Strings.mp4
+│   ├── 7. ES6 String Methods.mp4
+│   └── 8. ES6 Sets.mp4
+├── 11. Git & Github
+│   ├── 01. Intro To Git.mp4
+│   ├── 02. Installing Git On Windows.mp4
+│   ├── 03. Installing Git On Mac.mp4
+│   ├── 04. Configuring Username & Email.mp4
+│   ├── 05. Creating A Git Repo.mp4
+│   ├── 06. Git Commit.mp4
+│   ├── 07. Adding New Files.mp4
+│   ├── 08. Making Changes To The Files.mp4
+│   ├── 09. Working With Actual Projects.mp4
+│   ├── 10. Direct Commit.mp4
+│   ├── 11. Git Checkout.mp4
+│   ├── 12. Unstageing Files.mp4
+│   ├── 13. Getting To Old Version.mp4
+│   ├── 14. Introduction To Github & Creating A Github Repository.mp4
+│   ├── 15. Making & Pushing Changes.mp4
+│   └── 16. Github Collaborating.mp4
+├── 12. VueJS
+│   ├── 01. Intro To VueJS.mp4
+│   ├── 02. Vue Instance.mp4
+│   ├── 03. Vue Methods.mp4
+│   ├── 04. Data Binding.mp4
+│   ├── 05. Vue Events.mp4
+│   ├── 06. Event Modifiers.mp4
+│   ├── 07. Keyboard Events.mp4
+│   ├── 08. Two Way Data Binding.mp4
+│   ├── 09. Dynamic CSS Classes.mp4
+│   ├── 10. Conditionals.mp4
+│   ├── 11. Looping.mp4
+│   ├── 12. Multiple Vue Instances.mp4
+│   ├── 13. Vue Components.mp4
+│   ├── 14. Vue Refs.mp4
+│   ├── 15. Installing Vue CLI.mp4
+│   ├── 16. Understanding Vue Files.mp4
+│   ├── 17. Nesting Components.mp4
+│   ├── 18. Styling Components.mp4
+│   ├── 19. Registering Components.mp4
+│   └── 20. Props.mp4
+├── 13. NodeJs
+│   ├── 01. Intro To NodeJs.mp4
+│   ├── 02. Installing Node.mp4
+│   ├── 03. Hey There Node!.mp4
+│   ├── 04. Function Expressions.mp4
+│   ├── 05. Modules.mp4
+│   ├── 06. Multiple Modules.mp4
+│   ├── 07. Event Emitter.mp4
+│   ├── 08. Read & Write Files.mp4
+│   ├── 09. Creating & Removing Directories.mp4
+│   ├── 10. Creating Our Own Server.mp4
+│   ├── 11. Readable Stream.mp4
+│   ├── 12. Writable Stream.mp4
+│   ├── 13. Serving HTML Pages.mp4
+│   ├── 14. Sending JSON Data.mp4
+│   ├── 15. Simple Routing.mp4
+│   ├── 16. Node Package Manager.mp4
+│   ├── 17. Package JSON File.mp4
+│   ├── 18. Installing Nodemon.mp4
+│   ├── 19. Introduction To Express.mp4
+│   ├── 20. Route Params.mp4
+│   ├── 21. Templating Engine.mp4
+│   └── 22. Passing Complex Data To Templates.mp4
+├── 14. PostgeSQL
+│   ├── 01. Installing Postgres On Windows.mp4
+│   ├── 02. Creating A Database.mp4
+│   ├── 03. Creating Table.mp4
+│   ├── 04. Inserting Data.mp4
+│   ├── 05. Select Clause.mp4
+│   ├── 06. Select Distinct Clause.mp4
+│   ├── 07. Where Clause.mp4
+│   ├── 08. True Or False.mp4
+│   ├── 09. Operators Part 1.mp4
+│   ├── 10. Operators Part 2.mp4
+│   ├── 11. Updating Data.mp4
+│   ├── 12. Deleting Data.mp4
+│   ├── 13. Math Functions.mp4
+│   ├── 14. Not Null Constrain.mp4
+│   ├── 15. Unique Constrain.mp4
+│   ├── 16. Primary Key Constrain.mp4
+│   ├── 17. Serial Constrain.mp4
+│   ├── 18. Default Constrain.mp4
+│   ├── 19. Intro To Foreign Key Constrain.mp4
+│   └── 20. Foreign Key Example.mp4
+├── 15. Final Project Building A Medical Inventory Management Application
+│   ├── 01. Setting Up Project.mp4
+│   ├── 02. Setting Up The Static FIles.mp4
+│   ├── 03. Setting Up Templating Engine.mp4
+│   ├── 04. Setting Up Database.mp4
+│   ├── 05. Submitting Form Data.mp4
+│   ├── 06. Connecting To Database.mp4
+│   ├── 07. Adding Data.mp4
+│   ├── 08. Implementing View Functionality.mp4
+│   ├── 09. Implementing Delete Funtionality.mp4
+│   ├── 10. Challenge.mp4
+│   ├── 11. Implementing Edit Functionality Part 1.mp4
+│   ├── 12. Implementing Edit Functionality Part 2.mp4
+│   ├── 13. Making Our App Attractive.mp4
+│   ├── 14. Designing The Collapsible Navigation Bar.mp4
+│   ├── 15. Adding A Video Background To Index Page.mp4
+│   ├── 16. Adding The Logo & Tagline.mp4
+│   ├── 17. Creating Admin Dashboard Part 1.mp4
+│   ├── 18. Creating Admin Dashboard Part 2.mp4
+│   └── 19. Creating Admin Dashboard Part 3.mp4
+└── 16. Course Conclusion
+    └── 1. Conclusion.mp4
