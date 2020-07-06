@@ -1,0 +1,20 @@
+BOOTSTRAP
+
+for mobile responsive websites
+
+
+what is bootstrap?
+    html, css, js framework to build mobile responsive websites.
+    has built in components, helps in making sites faster
+    has set of classes to be used on site
+    prerequisites: html, css
+
+How to use bootstrap?
+    1. download & install bootstrap in system
+    2. using bootstrap cdn (content delivery network)
+
+
+Bootstrap Grid system?
+    way of placing elements on site
+    12 coulmns with spaces between them
+    elements can be placed in these columns only
