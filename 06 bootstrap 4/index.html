@@ -15,29 +15,22 @@
 <body>
     <div class="container">
         <!--
-            alignment:
-            justify-content-end
-            flex-column
-            nav-fill: occupies full width of container
+            breadcrumbs:
 
-            menu list styles:
-            nav-tabs
-            nav-pills
         -->
-        <ul class="nav nav-pills nav-fill">
-            <li class="nav-item">
-                <a class="nav-link active" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Products</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">About Us</a>
-            </li>
-        </ul>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a href="#">Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a href="#">Profile</a>
+                </li>
+                <li class="breadcrumb-item active" aria-current="page">
+                    Photos
+                </li>
+            </ol>
+        </nav>
     </div>
 </body>
 
