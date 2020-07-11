@@ -1,0 +1,6 @@
+DATA TYPES
+
+string/text     "Rohnak"
+number          20
+float           20.35
+boolean         true    false
