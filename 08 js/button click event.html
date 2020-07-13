@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <script>
+        car = {
+            color: "red",
+            price: 45000,
+            capacity: 1200,
+            state: 'stopped'
+        };
+
+        function changeState() {
+            car.state = "started";
+            alert(car.state);
+        }
+
+        function display() {
+            document.write("Hi!");
+        }
+    </script>
+</head>
+
+<body>
+    <button onclick="display()">Click me</button>
+    <button onclick="changeState()">Start the car</button>
+</body>
+
+</html>
