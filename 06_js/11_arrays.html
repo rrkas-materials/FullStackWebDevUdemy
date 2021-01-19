@@ -1,0 +1,26 @@
+<html>
+<script>
+    function print(s) {
+        document.write(s, "<br>")
+    }
+
+    var names = ["A", "B", "C"];
+    print(names);
+    print(names[0]);
+    print(names.length);
+    names.push("D");
+    print(names);
+    print("<br>");
+    print(names.toString());
+    print(names.pop());
+    print(names);
+    print(names.shift());
+    print(names);
+    names.unshift("A*");
+    print(names);
+    delete names[1];
+    print(names);
+    print(names.concat([1, 2, 3]));
+</script>
+
+</html>

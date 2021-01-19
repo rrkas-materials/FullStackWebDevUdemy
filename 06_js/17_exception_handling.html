@@ -1,0 +1,17 @@
+<html>
+<script>
+    var num = "123456789";
+    try {
+        if (num.length != 10) {
+            throw ("!10");
+        } else {
+            document.write("10 digits" + "<br>");
+        }
+    } catch (e) {
+        alert("!10");
+    } finally {
+        document.write("finally" + "<br>");
+    }
+</script>
+
+</html>

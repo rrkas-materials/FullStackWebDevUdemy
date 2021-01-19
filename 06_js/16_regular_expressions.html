@@ -1,0 +1,20 @@
+<html>
+<script>
+    function print(s) {
+        document.write(s + "<br>");
+    }
+
+
+    var pat = /late/i;
+    /*
+        late: search string
+        i   : modifier
+    */
+
+    var x = "I am late.";
+
+    print(x.search(pat));
+    print(x.replace(pat, "early"))
+</script>
+
+</html>

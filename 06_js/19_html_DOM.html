@@ -1,0 +1,60 @@
+<!--DOM = Document Object Model-->
+<html>
+
+<head>
+    <title id="demo">My Title</title>
+</head>
+
+<body>
+    <h1 onclick="this.innerHTML='You clicked here'">Clickable Heading</h1>
+    <h1 onclick="this.style.color='green'">Clickable Heading</h1>
+    <p id="para"></p>
+    <p id="para2"></p>
+    <p id="extra">extra para</p>
+    <button id="newButton">Click Here</button><br>
+
+    <script>
+        //by id
+        document.getElementById("para").innerHTML = "This is a para";
+
+        //by tag name
+        var ps = document.getElementsByTagName("p");
+        document.write(ps, "<br>");
+        document.write(ps[1], "<br>");
+        document.write(ps[1].id, "<br>");
+
+        //changing style
+        document.getElementById("para").style.color = "blue";
+
+        //event listeners
+        function displayAlert() {
+            alert("Clicked the button");
+        }
+        document.getElementById("newButton").addEventListener("click", displayAlert);
+
+        //nodes
+        var title = document.getElementById("demo");
+        document.write(title, "<br>");
+        document.write(title.nodeName, "<br>");
+        document.write(title.nodeValue, "<br>");
+
+        var titleText = document.getElementById("demo").firstChild;
+        document.write(titleText, "<br>");
+        document.write(titleText.nodeName, "<br>");
+        document.write(titleText.nodeValue, "<br>");
+
+        //adding nodes
+        var body = document.getElementsByTagName("body")[0];
+        var para3 = document.createElement("p");
+        var para3textNode = document.createTextNode("Text for new para");
+        para3.appendChild(para3textNode);
+        body.appendChild(para3);
+
+        //deleting child
+        var extra = document.getElementById("extra");
+        body.removeChild(extra);
+    </script>
+
+</body>
+
+</html>
