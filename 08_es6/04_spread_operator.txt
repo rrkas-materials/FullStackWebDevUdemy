@@ -1,0 +1,5 @@
+var names = ['a', 'b', 'c'];
+console.log(names);         //(3) ["a", "b", "c"]
+------------------------------
+var names = ['a', 'b', 'c'];
+console.log(...names);      //a b c

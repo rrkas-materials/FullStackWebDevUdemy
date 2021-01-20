@@ -1,0 +1,7 @@
+var str = "abc";
+console.log(str.repeat(3));         //abcabcabc
+console.log(str.startsWith("a"));   //true
+console.log(str.startsWith("b"));   //false
+console.log(str.includes("b"));     //true
+console.log(str.endsWith("b"));     //false
+console.log(str.endsWith("c"));     //true

@@ -1,0 +1,16 @@
+ES6 = Ecmascript version 6
+JS = ES5
+ES is the standard for JS
+
+ES6 properties:
+- uses modern syntax
+- fixed issues with ES5
+- backward compatible with ES5
+
+Disadvantage:
+- can run only on modern browsers
+Solution:
+- we need transpilers such as Bable to convert ES6 to ES5
+- always use transpilers in production level apps
+
+

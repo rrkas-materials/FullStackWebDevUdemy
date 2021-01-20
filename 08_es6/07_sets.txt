@@ -1,0 +1,17 @@
+var fruits = ["apple", "banana"];
+console.log(fruits);        //["apple", "banana"]
+fruits.push("apple");
+console.log(fruits);        //(3) ["apple", "banana", "apple"]
+
+var animals = new Set();
+animals.add("dog").add("cat").add("mice");
+console.log(animals);       //Set(3) {"dog", "cat", "mice"}
+animals.add("cat");
+console.log(animals);       //Set(3) {"dog", "cat", "mice"}
+console.log(animals.size);  //3
+animals.delete("cat");
+console.log(animals);       //Set(3) {"dog", "mice"}
+
+
+var fr = new Set(fruits);
+console.log(fr);            //Set(2) {"apple", "banana"}

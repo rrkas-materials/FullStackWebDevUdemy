@@ -1,0 +1,26 @@
+var r = 100;
+console.log(r); //100
+r = 200;
+console.log(r); //200
+-----------------------
+const s = 100;
+console.log(s); //100
+s = 200; //error: Assignment to constant variable.
+-----------------------
+const marks = [100, 200, 300];
+console.log(marks); //100,200,300
+marks.push(400); //valid
+console.log(marks); //100,200,300,400
+
+marks = [10,20]; //invalid
+-----------------------
+const stud = {
+    name:'r'
+};
+console.log(stud); {name:"r"}
+stud.name = 's'; //valid
+console.log(stud); {name:"s"}
+
+stud = {
+    name:'s'
+}; //invalid

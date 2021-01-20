@@ -1,0 +1,27 @@
+writing code in chrome's developer console:
+
+/*
+    command [enter]         : execute command
+    command [shift + enter] : multiple lines of code
+
+*/
+
+
+console.log('hello');
+
+var : global scope
+let : block level scope
+
+Example--------------------------
+if(true){                       |
+    let x = 10;                 |
+}                               |
+console.log(x); //error         |
+---------------------------------
+if(true){                       |
+    var y = 10;                 |
+}                               |
+console.log(y); //no error      |
+---------------------------------
+
+

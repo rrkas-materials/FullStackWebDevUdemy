@@ -1,0 +1,25 @@
+var msg = "hello world";
+console.log(msg);// hello world
+--------------------------------
+var msg = "hello 
+world";
+console.log(msg);//Invalid or unexpected token
+----------------------------------
+var msg = `hello
+world`;
+console.log(msg);
+//hello
+//there
+
+------------------------------------
+
+function disp(msg){
+    console.log("Message:", msg);
+}
+disp("hi");//Message: hi
+------------------------------------
+function disp(msg){
+    console.log(`Message: ${msg}`);
+}
+disp("hi");//Message: hi
+

@@ -1,0 +1,12 @@
+function disp(msg){
+    console.log(msg);
+}
+disp(); //undefined
+
+--------------------------
+
+function disp(msg = "Default"){
+    console.log(msg);
+}
+disp(); //Default
+
